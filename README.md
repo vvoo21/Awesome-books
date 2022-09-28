@@ -12,14 +12,14 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://rmrmrmr.github.io/awesome-books)
+[Live Demo Link](https://vvoo21.github.io/Awesome-books/)
 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps:
 
-- git clone `https://github.com/rmrmrmr/awesome-books.git`
+- git clone `https://github.com/vvoo21/Awesome-books.git`
 - To navigate into the project directory, use "cd capstone-project/"
 
 and enjoy
